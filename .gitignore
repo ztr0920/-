@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 
-* linguist-language=python
+*.* linguist-language=python
